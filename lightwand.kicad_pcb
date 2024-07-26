@@ -8742,7 +8742,7 @@
 			(start -0.88 0.35)
 			(end -0.88 -0.35)
 			(stroke
-				(width 0.05)
+				(width 0.05212)
 				(type solid)
 			)
 			(layer "F.CrtYd")
